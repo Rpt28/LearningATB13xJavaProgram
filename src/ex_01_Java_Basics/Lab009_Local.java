@@ -1,6 +1,6 @@
 package ex_01_Java_Basics;
 
-public class Lb009_Local {
+public class Lab009_Local {
     public static void main(String[] args) {
         int a = 10;
         byte b = 10;
